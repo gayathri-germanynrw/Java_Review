@@ -11,7 +11,6 @@ public class MaximumAndMinimum {
                 min=each;
             }
         }
-        System.out.println("-----------------");
         System.out.println("min = " + min);
         System.out.println("max = " + max);
     }
